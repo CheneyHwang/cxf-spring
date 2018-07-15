@@ -34,6 +34,11 @@
 			<artifactId>cxf-spring-boot-starter-jaxrs</artifactId>
 			<version>3.2.5</version>
 		</dependency>
+		<dependency>
+			<groupId>com.fasterxml.jackson.jaxrs</groupId>
+			<artifactId>jackson-jaxrs-json-provider</artifactId>
+			<scope>compile</scope>
+		</dependency>
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>

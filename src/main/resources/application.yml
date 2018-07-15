@@ -1,0 +1,5 @@
+cxf:
+  path: /rest
+  jaxrs:
+    component-scan: true
+    classes-scan-packages: com.mine.cxfspring.api.impl

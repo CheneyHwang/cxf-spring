@@ -1,4 +1,4 @@
-package com.mine.cxfspring.configure;
+package com.mine.cxfspring;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
